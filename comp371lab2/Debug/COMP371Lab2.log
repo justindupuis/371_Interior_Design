@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (COMP371Lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assignment01.cpp
+c:\users\justin\dropbox\concordia\comp371\030 assignments\assignment1\comp371lab2\assignment01.cpp(259): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\justin\dropbox\concordia\comp371\030 assignments\assignment1\comp371lab2\assignment01.cpp(260): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\justin\dropbox\concordia\comp371\030 assignments\assignment1\comp371lab2\assignment01.cpp(268): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\justin\dropbox\concordia\comp371\030 assignments\assignment1\comp371lab2\assignment01.cpp(269): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\justin\dropbox\concordia\comp371\030 assignments\assignment1\comp371lab2\assignment01.cpp(298): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\justin\dropbox\concordia\comp371\030 assignments\assignment1\comp371lab2\assignment01.cpp(327): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\justin\dropbox\concordia\comp371\030 assignments\assignment1\comp371lab2\assignment01.cpp(328): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\justin\dropbox\concordia\comp371\030 assignments\assignment1\comp371lab2\assignment01.cpp(339): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\justin\dropbox\concordia\comp371\030 assignments\assignment1\comp371lab2\assignment01.cpp(819): warning C4101: 'angle': unreferenced local variable
+c:\users\justin\dropbox\concordia\comp371\030 assignments\assignment1\comp371lab2\assignment01.cpp(502): warning C4715: 'initializeEnvironment': not all control paths return a value
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  COMP371Lab2.vcxproj -> C:\Users\Justin\Dropbox\Concordia\COMP371\030 Assignments\Assignment1\Debug\Assignment1.exe
